@@ -1,0 +1,22 @@
+{
+  "wheel_id": 111,
+  "slug": "homeloanbrokerbrisbane-105",
+  "project": "investment-property-loans-brisbane-refinancing-h-105",
+  "parent_t1_ref": "homeloanbrokerbrisbane-002",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokerbrisbane.com.au",
+  "primary_kw": "investment property loans brisbane refinancing",
+  "intended_url": "https://investment-property-loans-brisbane-refinancing-h-105.s3.ap-southeast-2.amazonaws.com/index.html",
+  "links": [
+    {
+      "target_url": "https://investment-property-loans-brisbane-h-150.onrender.com/",
+      "anchor": "investment property loans brisbane",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://investment-property-loans-brisbane-h-150.onrender.com/",
+      "anchor": "investment property loans brisbane",
+      "rel": "follow"
+    }
+  ]
+}
